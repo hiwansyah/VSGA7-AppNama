@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppNama</string>
+    <string name="string_nama">Ini adalah nama anda!</string>
+    <string name="string_tampilkan">TAMPILKAN</string>
+</resources>
